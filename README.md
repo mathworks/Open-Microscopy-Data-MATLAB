@@ -14,6 +14,7 @@ Use this tutorial to get started with freely available microscopy data at [Image
     - Analyse the microscopy images to identify cells
     - Pubish the results on GitHub and make them accessible using Open With MATLAB Online
 - Live Script contains easy-to-use menus for user to click and select different datasets
+- Available on [File Exchange](mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
 - Accompanying Jupyter notebook (.ipynb) 
 
 ## About the Image Data Resource
@@ -23,9 +24,9 @@ It can be accessed at [https://idr.openmicroscopy.org/](https://idr.openmicrosco
 **For advanced users** A detailed guide to the Image Data Resource can be found [here](idr.openmicroscopy.org/about/api.html). To access the REST API use the MATLAB [webread](mathworks.com/help/matlab/ref/webread.html) function
 
 ### Required Products
-This tutorial uses the following products /n
-MATLAB
-Image Processing Toolbox
+This tutorial uses the following products\
+MATLAB\
+Image Processing Toolbox\
 
 **Note**
 This tutorial works best when delivered by a tutor. It is important to highlight best practices when working with Open Data, publishing Open Code or making research output reproducible
