@@ -17,9 +17,13 @@ Use this tutorial to get started with freely available microscopy data at [Image
 - Accompanying Jupyter notebook (.ipynb) 
 
 ## About the Image Data Resource
+The Image Data Resource (IDR) is a public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data.
+It can be accessed at [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+
+**For advanced users** A detailed guide to the Image Data Resource can be found [here](idr.openmicroscopy.org/about/api.html). To access the REST API use the MATLAB [webread](mathworks.com/help/matlab/ref/webread.html) function
 
 ### Required Products
-This tutorial uses the following products
+This tutorial uses the following products /n
 MATLAB
 Image Processing Toolbox
 
