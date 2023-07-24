@@ -1,4 +1,4 @@
-# Open Science Biology
+# Analyse Open Microscopy Data in MATLAB
 
 A MATLAB Live Script with accompanying Jupyter Notebook to access and use Microscopy image data sets from the Open Microscopy database
 
