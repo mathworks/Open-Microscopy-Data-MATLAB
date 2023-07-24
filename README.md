@@ -6,7 +6,7 @@ A MATLAB Live Script with accompanying Jupyter Notebook to access and use Micros
 
 Use this tutorial to get started with freely available microscopy data at [Image Data Resource](https://idr.openmicroscopy.org/) directly from MATLAB.
 - No downloads
-- **Open directly in MATLAB Online** by clicking this [badge](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
+- **Open directly in MATLAB Online** by clicking this ![badge](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
 - Step-by-step tutorial shows how to
     - Access a list of openly available projects on Open Microscopy
     - Query and inspect the metadata associated with these projects using commands directly from MATLAB (RESTful API)
