@@ -1,6 +1,6 @@
 # Open Science Biology
 
-
+A MATLAB Live Script with accompanying Jupyter Notebook to access and use Microscopy image data sets from the Open Microscopy database
 
 ## Getting started
 
