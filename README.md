@@ -12,7 +12,5 @@ The tutorial covers the following steps
 - Analyse the microscopy images to identify cells
 - Pubish the results on GitHub and make them accessible using Open With MATLAB Online
 
-
-<div class = "alert alert-block alert-danger">
-Warning
-</div>
+**Note**
+This tutorial works best when delivered by a tutor. It is important to highlight best practices when working with Open Data, publishing Open Code or making research output reproducible
