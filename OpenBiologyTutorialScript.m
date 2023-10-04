@@ -220,7 +220,7 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % * Publish your MATLAB code (eg: on GitHub) and generate a <https://en.wikipedia.org/wiki/Digital_object_identifier 
 % DOI> (digital object identifier) by <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content 
 % linking it to a DOI generating portal>(egs. <https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account#:~:text=You%20can%20get%20set%20up,where%20you'll%20authorise%20figshare. 
-% Figshare>, Zenodo). Make your research output findable by including as much 
+% Figshare>, <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>). Make your research output findable by including as much 
 % information as needed in the metadata. Document your code well explaining steps 
 % required to reproduce clearly and explicitly.
 % * Make sure you include a license for your code that specifies reuse and re-distribution rights for the code. Various open source licenses 
