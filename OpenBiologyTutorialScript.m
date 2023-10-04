@@ -270,7 +270,7 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % tested and published as a Code Ocean "capsule" which can be run online or downloaded 
 % and run locally by users. Code Ocean also generates a DOI for your code capsule. 
 % For Live Scripts, convert the |.mlx| file into a |.m| file and a |.html| file 
-% for best results. Here is the DOI <https://doi.org/10.24433/CO.8820386.v1> for the Code Ocean capsule of the this code. 
+% for best results. Here is the DOI <https://doi.org/10.24433/CO.8820386.v2> for the Code Ocean capsule of the this code. 
 % Read more about MATLAB on Code Ocean <https://blogs.mathworks.com/loren/2021/07/15/sharing-and-running-matlab-code-in-the-cloud/#H_795BB86B 
 % here>.
 %% 
