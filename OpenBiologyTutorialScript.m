@@ -222,6 +222,9 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % Figshare>, Zenodo). Make your research output findable by including as much 
 % information as needed in the metadata. Document your code well explaining steps 
 % required to reproduce clearly and explicitly.
+% * Make sure you include a license for your code that specifies reuse and re-distribution rights for the code. Various open source licenses 
+% are available. <https://opensource.org/licenses/>
+% BSD, MIT and Apache licenses are commonly used for open research software.
 % * <https://www.mathworks.com/matlabcentral/content/fx/about.html?s_tid=gn_mlc_fx_help#Why_GitHub 
 % Link your GitHub repository to File Exchange> to make your MATLAB code available 
 % to MATLAB users via the Add-Ons button. 
@@ -266,7 +269,7 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % tested and published as a Code Ocean "capsule" which can be run online or downloaded 
 % and run locally by users. Code Ocean also generates a DOI for your code capsule. 
 % For Live Scripts, convert the |.mlx| file into a |.m| file and a |.html| file 
-% for best results. Here is the DOI for the Code Ocean capsule of the this code. 
+% for best results. Here is the DOI <https://doi.org/10.24433/CO.8820386.v1> for the Code Ocean capsule of the this code. 
 % Read more about MATLAB on Code Ocean <https://blogs.mathworks.com/loren/2021/07/15/sharing-and-running-matlab-code-in-the-cloud/#H_795BB86B 
 % here>.
 %% 
