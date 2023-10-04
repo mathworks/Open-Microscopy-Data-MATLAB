@@ -1,4 +1,5 @@
 %% Access data from Open Microscopy database
+% Authors: Shubo Chakrabarti and Thomas Künzel
 % Copyright 2023 The MathWorks Inc
 %% Introduction
 % *Public Data:* Many public databases have been created for the purposes of 
