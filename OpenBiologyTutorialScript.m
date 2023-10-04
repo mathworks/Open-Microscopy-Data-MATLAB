@@ -250,7 +250,7 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % JupyterHub> and MATLAB code can also be used within Jupyter Notebooks. Here 
 % is a link to a Jupyter notebook of the same example used here. There is an official 
 % MATLAB kernel for Jupyter Notebooks - read about it <https://blogs.mathworks.com/matlab/2023/01/30/official-mathworks-matlab-kernel-for-jupyter-released/ 
-% here>.
+% here>.To easily convert a Live Script into a Jupyter Notebook use the export function.
 %% 
 % 
 %% 
