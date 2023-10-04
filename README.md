@@ -1,11 +1,16 @@
 # Analyse Open Microscopy Data in MATLAB
 
-A MATLAB Live Script with accompanying Jupyter Notebook to access and analyze Microscopy image data sets from the Open Microscopy database
+A MATLAB Live Script with accompanying 
+- Jupyter Notebook, 
+- m file and 
+- reproducible code capsule on Code Ocean
+
+to access and analyze Microscopy image data sets from the Open Microscopy database
 
 ## Get started
 
 Use this tutorial to get started with freely available microscopy data at [Image Data Resource](https://idr.openmicroscopy.org/) directly from MATLAB.
-- No downloads
+- No downloads, no installations
 - **Open directly in MATLAB Online** by clicking this ![badge](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
 - Step-by-step tutorial shows how to
     - Re-use available data. **Access a list of openly available projects** on Open Microscopy
@@ -17,6 +22,7 @@ Use this tutorial to get started with freely available microscopy data at [Image
 - **Live Script** contains **easy-to-use menus** for user to click and select different datasets
 - Available on [File Exchange](mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
 - Accompanying **Jupyter notebook** (.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](mathworks.com/products/reference-architectures/jupyter.html)
+- Accompanying **Code Ocean reproducible capsule** (.m) for one-click reproducibility of the code by anyone, including reviewers.
 
 ## About the Image Data Resource
 The Image Data Resource (IDR) is a public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data.
