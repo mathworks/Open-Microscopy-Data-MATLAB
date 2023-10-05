@@ -201,10 +201,10 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % To enable collaboration partners, reviewers and the community reuse your MATLAB 
 % code and reproduce your results.
 
-% * Publish your MATLAB code (eg: on GitHub) and generate a <https://en.wikipedia.org/wiki/Digital_object_identifier 
+% * Publish your MATLAB code (eg: on GitHub®) and generate a <https://en.wikipedia.org/wiki/Digital_object_identifier 
 % DOI> (digital object identifier) by <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content 
 % linking it to a DOI generating portal>(egs. <https://help.figshare.com/article/how-to-connect-figshare-with-your-github-account#:~:text=You%20can%20get%20set%20up,where%20you'll%20authorise%20figshare. 
-% Figshare>, <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content>). Make your research output findable by including as much 
+% Figshare®>, <https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content Zenodo®>). Make your research output findable by including as much 
 % information as needed in the metadata. Document your code well explaining steps 
 % required to reproduce clearly and explicitly.
 
@@ -220,17 +220,17 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % * Make your MATLAB code *interoperable*. MATLAB is <https://www.mathworks.com/products/matlab/matlab-and-other-programming-languages.html 
 % interoperable> with several other languages including C, Fortran and Python. 
 % MATLAB can be directly called from Python using the <https://www.mathworks.com/help/matlab/matlab-engine-for-python.html 
-% MATLAB Engine for Python> which is available as a PyPI package and can be installed 
+% MATLAB Engine for Python®> which is available as a PyPI® package and can be installed 
 % using the command |pip install matlab.engine| from Python. MATLAB code can also 
 % be <https://www.mathworks.com/help/compiler_sdk/gs/create-a-python-application-with-matlab-code.html 
 % packaged as a Python library> and called from Python. Deep Learning models from 
 % other frameworks are <https://www.mathworks.com/help/deeplearning/ug/interoperability-between-deep-learning-toolbox-tensorflow-pytorch-and-onnx.html 
 % interoperable with MATLAB> either using the <https://www.mathworks.com/matlabcentral/fileexchange/67296-deep-learning-toolbox-converter-for-onnx-model-format 
-% ONNX interface> or via direct interfaces that exist, for example, for Pytorch 
-% and Tensorflow models. 
+% ONNX™ interface> or via direct interfaces that exist, for example, for Pytorch® 
+% and Tensorflow™ models. 
 
 % * MATLAB is interoperable with cloud architectures such as <https://www.mathworks.com/products/reference-architectures/jupyter.html 
-% JupyterHub> and MATLAB code can also be used within Jupyter Notebooks. Here 
+% JupyterHub®> and MATLAB code can also be used within Jupyter® Notebooks. Here 
 % is a link to a Jupyter notebook of the same example used here. There is an official 
 % MATLAB kernel for Jupyter Notebooks - read about it <https://blogs.mathworks.com/matlab/2023/01/30/official-mathworks-matlab-kernel-for-jupyter-released/ 
 % here>.To easily convert a Live Script into a Jupyter Notebook use the export function.
@@ -239,12 +239,12 @@ saveas(gcf,"ImageWithCentroidsFigure.png")
 % MATLAB code on the browser directly from GitHub>. Copy and paste the GitHub 
 % repo address into <https://www.mathworks.com/products/matlab-online/git.html 
 % this app>. That will generate a command, which when pasted into your README, 
-% will create a "Open in MATLAB Online" button on your GitHub repository. By clicking 
+% will create a "Open in MATLAB Online™" button on your GitHub repository. By clicking 
 % on this button, users will be able to run your code in the browser on MATLAB 
 % Online.
  
 % * Make your MATLAB code reproducible by using a reproducibility portals that 
-% supports MATLAB. One example is Code Ocean. On Code Ocean, you can <https://help.codeocean.com/en/articles/1120384-which-toolboxes-are-included-with-matlab 
+% supports MATLAB. One example is Code Ocean®. On Code Ocean, you can <https://help.codeocean.com/en/articles/1120384-which-toolboxes-are-included-with-matlab 
 % upload your MATLAB code> including dependencies. Once uploaded, your code is 
 % tested and published as a Code Ocean "capsule" which can be run online or downloaded 
 % and run locally by users. Code Ocean also generates a DOI for your code capsule. 
