@@ -33,7 +33,7 @@ It can be accessed at [https://idr.openmicroscopy.org/](https://idr.openmicrosco
 ### Required Products
 This tutorial uses the following products\
 - MATLAB
-- Image Processing Toolbox
+- Image Processing Toolbox &trade;
 
 This code has been developed and tested using MATLAB 2023b
 
