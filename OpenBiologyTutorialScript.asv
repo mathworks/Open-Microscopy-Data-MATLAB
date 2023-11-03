@@ -37,7 +37,7 @@
 % In this example, we will access microscopy data from the Image Data Resource 
 % (IDR) on the <https://idr.openmicroscopy.org/ Open Microscopy database>. 
 % This data is open and is licensed under a <https://creativecommons.org/licenses/by/4.0/
-% Creative Commons Attribution 4.0 International License.>
+% Creative Commons Attribution 4.0 International License.
 
 %% Access the data from Open Microscopy
 % Access a list of all publicly available projects
