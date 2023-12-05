@@ -3,7 +3,7 @@
 A MATLAB Live Script with accompanying 
 - Jupyter® Notebook, 
 - m file and 
-- reproducible code capsule on Code Ocean®
+- [reproducible code capsule on Code Ocean®](https://doi.org/10.24433/CO.8820386.v1)
 
 to access and analyze Microscopy image data sets from the Open Microscopy database
 
