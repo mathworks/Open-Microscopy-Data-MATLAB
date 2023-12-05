@@ -1,8 +1,8 @@
 # Analyse Open Microscopy Data in MATLAB®
 
 A MATLAB Live Script with accompanying 
-- Jupyter® Notebook, 
-- m file and 
+- [Jupyter® Notebook](https://github.com/mathworks/Open-Microscopy-Data-MATLAB/blob/main/OpenBiologyTutorial.ipynb), 
+- [m file](https://github.com/mathworks/Open-Microscopy-Data-MATLAB/blob/9d6ed32395816ae334ac5e917b5d4a0e68ed292d/OpenBiologyTutorialScript.m)and 
 - [reproducible code capsule on Code Ocean®](https://doi.org/10.24433/CO.8820386.v1)
 
 to access and analyze Microscopy image data sets from the Open Microscopy database
