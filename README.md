@@ -11,7 +11,7 @@ to access and analyze Microscopy image data sets from the Open Microscopy databa
 
 Use this tutorial to get started with freely available microscopy data at [Image Data Resource](https://idr.openmicroscopy.org/) directly from MATLAB.
 - No downloads, no installations
-- **Open directly in MATLAB Online™** by clicking this ![badge](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)
+- **Open directly in MATLAB Online™** by clicking this [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Open-Microscopy-Data-MATLAB&file=OpenBiologyTutorial.mlx)
 - Step-by-step tutorial shows how to
     - Re-use available data. **Access a list of openly available projects** on Open Microscopy
     - **Query and inspect the metadata** associated with these projects using commands directly from MATLAB (RESTful API)
@@ -31,7 +31,7 @@ It can be accessed at [https://idr.openmicroscopy.org/](https://idr.openmicrosco
 **For advanced users** A detailed guide to the Image Data Resource API can be found [here](idr.openmicroscopy.org/about/api.html). To access the REST API use the MATLAB [webread](mathworks.com/help/matlab/ref/webread.html) function
 
 ### Required Products
-This tutorial uses the following products\
+This tutorial uses the following products
 - MATLAB
 - Image Processing Toolbox &trade;
 
