@@ -2,7 +2,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Open-Microscopy-Data-MATLAB&file=OpenBiologyTutorial.mlx)
 # Analyse Open Microscopy Data in MATLAB®
 
-A MATLAB Live Script with accompanying 
+A MATLAB [Live Script](https://github.com/mathworks/Open-Microscopy-Data-MATLAB/blob/main/OpenBiologyTutorial.mlx) with accompanying 
 - [Jupyter® Notebook](https://github.com/mathworks/Open-Microscopy-Data-MATLAB/blob/main/OpenBiologyTutorial.ipynb), 
 - [m file](https://github.com/mathworks/Open-Microscopy-Data-MATLAB/blob/9d6ed32395816ae334ac5e917b5d4a0e68ed292d/OpenBiologyTutorialScript.m)and 
 - [reproducible code capsule on Code Ocean®](https://doi.org/10.24433/CO.8820386.v1)
