@@ -24,7 +24,7 @@ Use this tutorial to get started with freely available microscopy data at [Image
 - **Live Script** contains **easy-to-use menus** for user to click and select different datasets
 - Available on [File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) for directly installing onto your MATLAB path with one click using the [Add-Ons button](https://www.mathworks.com/help/matlab/matlab_env/get-add-ons.html)
 - Accompanying **Jupyter notebook** (.ipynb) for use in a Jupyter environment. More information on MATLAB kernel [here](https://www.mathworks.com/products/reference-architectures/jupyter.html)
-- Accompanying **Code Ocean reproducible capsule** (.m) for one-click reproducibility of the code by anyone, including reviewers.
+- Accompanying [**Code Ocean® reproducible capsule** (.m)](https://doi.org/10.24433/CO.8820386.v1) for one-click reproducibility of the code by anyone, including reviewers.
 
 ## About the Image Data Resource
 The Image Data Resource (IDR) is a public repository of image datasets from published scientific studies, where the community can submit, search and access high-quality bio-image data.
